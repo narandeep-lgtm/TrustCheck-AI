@@ -1,0 +1,6 @@
+{
+  "name": "TrustCheck AI",
+  "description": "Verify Before You Trust — AI-powered fraud intelligence for evaluating job offers, internships, scholarships, recruitment messages, and suspicious websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
